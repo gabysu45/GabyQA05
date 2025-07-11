@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabyQA05
+- 👋 Hi, I’m @Gabysu45
 - 👀 I’m interested in software testing
 - 🌱 I’m currently learning Java and testing
 - 💞️ I’m looking to collaborate on software testing projects
